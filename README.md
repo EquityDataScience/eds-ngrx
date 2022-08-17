@@ -1,7 +1,7 @@
 # EdsNgrx
 
 This app is a copy of
-https://github.com/ngrx/platform/blob/master/projects/example-app/README.md
+https://github.com/ngrx/platform/blob/master/projects/example-app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
 
